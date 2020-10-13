@@ -1,0 +1,4 @@
+docker_env
+deploy/.terraform*
+deploy/terraform.tfstate*
+deploy/cert/*
